@@ -1,0 +1,17 @@
+.Blog_list{
+    list-style: none;
+    width: 100%;
+    background-color: #fff;
+    padding: 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    border: 1px solid #ddd;
+    font-size: 18px;
+    font-weight: 600;
+    color: #222;
+}
+
+.anchor_tag{
+    text-decoration: none;
+    color: #222;
+}
